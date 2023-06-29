@@ -1,0 +1,13 @@
+spring:
+
+
+
+  jpa:
+
+
+    hibernate:
+
+      properties:
+
+        hibernate:
+
